@@ -2,4 +2,6 @@
 ![Lobby Page](https://github.com/user-attachments/assets/400aa1cf-027d-4450-8d4e-b66a2ca86f59)
 ![Game Pic](https://github.com/user-attachments/assets/569e9135-d471-4658-8446-5e75faa4870b)
 ![Game Coin Pic](https://github.com/user-attachments/assets/3a56d144-aa7f-4ec0-9adf-830b4142d190)
+![SimplyUp Game Over Image](https://github.com/user-attachments/assets/188396ad-2dfd-4648-97b7-f81d44a33296)
+![SimplyUp Game WIn Image](https://github.com/user-attachments/assets/4efe27f2-75f0-46f2-885f-d0853f942f67)
 
